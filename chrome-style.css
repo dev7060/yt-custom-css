@@ -1,0 +1,12 @@
+/*gradient bottom*/
+#movie_player > div.ytp-gradient-bottom
+  {
+    opacity: 0 !important;
+  }
+/*gradient top*/
+  #movie_player > div.ytp-gradient-top
+  {
+    opacity: 0 !important;
+  }
+/*opacity level: 0 to 1*/
+}
